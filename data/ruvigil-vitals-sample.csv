@@ -1,0 +1,6 @@
+timestamp,scenario,estimated_persons,heart_rate_bpm,respiratory_rate_bpm,body_temperature_c,confidence,motion_level,risk,solution
+2026-06-20T09:00:00Z,elderly_care,1,68,14,36.7,0.87,still,normal,Continue monitoring
+2026-06-20T09:05:00Z,elderly_care,1,74,9,36.6,0.82,still,watch,Check breathing trend and sensor confidence
+2026-06-20T09:10:00Z,fall_event,1,112,24,37.2,0.90,fallen,critical,Check resident immediately and escalate if no response
+2026-06-20T09:15:00Z,fitness_tracking,1,124,30,38.0,0.78,active,watch,Recommend cooldown and verify temperature
+2026-06-20T09:20:00Z,crowd_occupancy,7,,,,0.75,walking,watch,Room is near 8-person capacity

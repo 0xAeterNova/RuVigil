@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "max_people_per_room": 8,
+  "thresholds": {
+    "heart_rate_bpm": {
+      "low_watch": 50,
+      "high_watch": 110,
+      "high_critical": 130
+    },
+    "respiratory_rate_bpm": {
+      "low_watch": 10,
+      "high_watch": 28,
+      "pause_critical": 6
+    },
+    "body_temperature_c": {
+      "low_watch": 36.1,
+      "high_watch": 37.8,
+      "high_critical": 38.5
+    },
+    "crowd": {
+      "near_capacity": 7,
+      "over_capacity": 8
+    }
+  },
+  "recommendations": {
+    "fall_detected": [
+      "Check the resident immediately.",
+      "Use the fall view to confirm low post-fall movement.",
+      "Escalate to the configured caregiver workflow if the resident does not respond."
+    ],
+    "temperature_high": [
+      "Verify the reading with a contact thermometer.",
+      "Check hydration, ventilation, and recent exercise context.",
+      "Escalate if the elevated trend persists or appears with distress signals."
+    ],
+    "temperature_low": [
+      "Verify the sensor contact and room conditions.",
+      "Check for prolonged inactivity or exposure.",
+      "Escalate if the reading remains low."
+    ],
+    "crowd_near_capacity": [
+      "Keep the room below the 8-person limit.",
+      "Use another monitored room if occupancy keeps rising."
+    ]
+  }
+}

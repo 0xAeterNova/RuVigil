@@ -1,0 +1,92 @@
+{
+  "project": "RuVigil",
+  "source_project": "ruvnet/RuView",
+  "schema_version": 1,
+  "room_capacity": {
+    "min_people": 0,
+    "default_crowd_people": 4,
+    "max_people": 8
+  },
+  "enabled_modes": [
+    {
+      "id": "auto_cycle",
+      "label": "Auto-Cycle",
+      "description": "Cycles through the supported RuVigil scenes for demo and QA."
+    },
+    {
+      "id": "elderly_care",
+      "label": "Elderly Care",
+      "description": "Monitors presence, inactivity, fall risk, respiratory rate, heart rate, and body temperature."
+    },
+    {
+      "id": "fitness_tracking",
+      "label": "Fitness",
+      "description": "Tracks activity intensity, heart rate, respiratory rate, movement quality, and body temperature."
+    },
+    {
+      "id": "fall_event",
+      "label": "Fall Detect",
+      "description": "Detects fall-like motion followed by low movement and recommends escalation steps."
+    },
+    {
+      "id": "crowd_occupancy",
+      "label": "Crowd (4-8 PPL)",
+      "description": "Monitors crowd occupancy up to 8 people in one room."
+    }
+  ],
+  "vital_signs": [
+    {
+      "id": "sleep_monitor",
+      "label": "Sleep Monitor",
+      "source": "presence_motion_respiration",
+      "unit": "state"
+    },
+    {
+      "id": "heart_rate_bpm",
+      "label": "Heart Rate",
+      "source": "wifi_csi_or_fused_sensor",
+      "unit": "bpm",
+      "normal_range": [50, 110]
+    },
+    {
+      "id": "respiratory_rate_bpm",
+      "label": "Respiratory Rate",
+      "source": "wifi_csi_or_fused_sensor",
+      "unit": "bpm",
+      "normal_range": [10, 28]
+    },
+    {
+      "id": "body_temperature_c",
+      "label": "Body Temperature",
+      "source": "external_thermometer_or_fused_sensor",
+      "unit": "C",
+      "normal_range": [36.1, 37.8]
+    }
+  ],
+  "firmware_binaries": [
+    "firmware/esp32-csi-node/release_bins/bootloader.bin",
+    "firmware/esp32-csi-node/release_bins/partition-table.bin",
+    "firmware/esp32-csi-node/release_bins/ota_data_initial.bin",
+    "firmware/esp32-csi-node/release_bins/esp32-csi-node.bin",
+    "firmware/esp32-csi-node/release_bins/esp32-csi-node-4mb.bin",
+    "firmware/esp32-csi-node/release_bins/s3-adr110/esp32-csi-node.bin",
+    "firmware/esp32-csi-node/release_bins/c6-adr110/esp32-csi-node.bin",
+    "firmware/esp32-csi-node/release_bins/s3-fair-adr110/esp32-csi-node.bin"
+  ],
+  "ai_module": {
+    "browser_panel": "ui/observatory/js/ai-advisor.js",
+    "cli": "ai_module/ruvigil-analyzer.mjs",
+    "rules": "data/ruvigil-ai-rules.json",
+    "input_fields": [
+      "classification.presence",
+      "classification.fall_detected",
+      "classification.motion_level",
+      "estimated_persons",
+      "persons",
+      "vital_signs.heart_rate_bpm",
+      "vital_signs.breathing_rate_bpm",
+      "vital_signs.respiratory_rate_bpm",
+      "vital_signs.body_temperature_c"
+    ]
+  }
+}
