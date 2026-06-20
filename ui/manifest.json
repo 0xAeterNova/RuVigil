@@ -1,0 +1,25 @@
+{
+  "name": "RuVigil - WiFi Sensing",
+  "short_name": "RuVigil",
+  "description": "Camera-free WiFi sensing for presence, fall risk, crowd occupancy, and vital-sign monitoring",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1f2121",
+  "theme_color": "#1de7c3",
+  "orientation": "any",
+  "categories": ["utilities", "medical"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
