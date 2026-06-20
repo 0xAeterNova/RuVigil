@@ -1,0 +1,10 @@
+C:\Users\Xpl0iS4n\Desktop\RuVigil\v2\target\debug\deps\anndists-1b5bc8451ca8095a.d: C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\lib.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\mod.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\distances.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\distsimd.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\disteez.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\prelude.rs
+
+C:\Users\Xpl0iS4n\Desktop\RuVigil\v2\target\debug\deps\libanndists-1b5bc8451ca8095a.rmeta: C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\lib.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\mod.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\distances.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\distsimd.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\disteez.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\prelude.rs
+
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\lib.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\mod.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\distances.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\distsimd.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\dist\disteez.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anndists-0.1.5\src\prelude.rs:

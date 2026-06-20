@@ -1,0 +1,11 @@
+C:\Users\Xpl0iS4n\Desktop\RuVigil\v2\target\debug\deps\mmap_rs-205190c9ee7e68b2.d: C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\lib.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\areas.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\error.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\mmap.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\os_impl\mod.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\os_impl\windows.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\../README.md
+
+C:\Users\Xpl0iS4n\Desktop\RuVigil\v2\target\debug\deps\libmmap_rs-205190c9ee7e68b2.rmeta: C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\lib.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\areas.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\error.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\mmap.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\os_impl\mod.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\os_impl\windows.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\../README.md
+
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\lib.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\areas.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\error.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\mmap.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\os_impl\mod.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\os_impl\windows.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mmap-rs-0.7.0\src\../README.md:

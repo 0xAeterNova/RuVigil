@@ -1,0 +1,12 @@
+C:\Users\Xpl0iS4n\Desktop\RuVigil\v2\target\debug\deps\rcgen-e440bbcfe15a934c.d: C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\lib.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\crl.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\csr.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\error.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\key_pair.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\oid.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\ring_like.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\sign_algo.rs
+
+C:\Users\Xpl0iS4n\Desktop\RuVigil\v2\target\debug\deps\librcgen-e440bbcfe15a934c.rmeta: C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\lib.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\crl.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\csr.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\error.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\key_pair.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\oid.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\ring_like.rs C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\sign_algo.rs
+
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\lib.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\crl.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\csr.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\error.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\key_pair.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\oid.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\ring_like.rs:
+C:\Users\Xpl0iS4n\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rcgen-0.12.1\src\sign_algo.rs:
