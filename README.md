@@ -8,7 +8,7 @@ RuVigil is a camera-free room monitoring system for privacy-focused presence,
 vitals, fall detection, and crowd occupancy workflows.
 
 It is designed for a five-node ESP32-S3 room deployment, local visualization,
-and an AI analysis module that reviews live/exported readings and recommends
+and an AI analysis module that reviews live readings and recommends
 actions when a problem is detected.
 
 ## Start Here
