@@ -15,7 +15,7 @@ actions when a problem is detected.
 
 Use the guide for your operating system:
 
-- [START_WINDOWS.md](START_WINDOWS.md) - Windows / PowerShell setup, flashing, provisioning, server, UI, and AI analyzer.
+- [START_WINDOWS.md](START_WINDOWS.md) - Windows-PowerShell setup, flashing, provisioning, server, UI, and AI analyzer.
 - [START_LINUX.md](START_LINUX.md) - Linux terminal setup, flashing, provisioning, server, UI, and AI analyzer.
 
 Both startup guides are written for five ESP32-S3 nodes with:
