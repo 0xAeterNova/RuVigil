@@ -130,7 +130,7 @@ Confirm the printed IP is on the same network as `RuVigil_Network`.
 If the auto-detected IP is wrong, set it manually:
 
 ```bash
-export AGGREGATOR_IP="192.168.1.20"
+export AGGREGATOR_IP="192.168.57.142"
 ```
 
 Keep this same terminal open. The flashing/provisioning commands below reuse
